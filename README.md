@@ -1,2 +1,2 @@
 # Digital-Payment-Wallet-
-Intership project with forntend and backend.
+Intership project with frontend and backend.
