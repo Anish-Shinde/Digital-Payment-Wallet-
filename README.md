@@ -1,4 +1,4 @@
-# PayTM_MERN_Stack
+# PayTM MERN Stack
 
 ## Overview
 
@@ -62,6 +62,3 @@ npm install
   ```
 **Access the Application:**
 - Open your browser and go to http://localhost:3000 to access the Paytm application.
-
-## Contributing:
-- Feel free to contribute to the project. You can contribute by opening issues, submitting pull requests, or suggesting new features.
